@@ -1,0 +1,12 @@
+# Output files
+*.txt
+*.md
+!README.md
+!WALKTHROUGH.md
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Shell history
+.bash_history
